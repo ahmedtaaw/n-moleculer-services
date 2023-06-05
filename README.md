@@ -68,3 +68,8 @@ Morning (2 hours):
 
 Note that the durations mentioned are approximate, and you can adjust them based on your learning pace and preferences. It's important to allocate time for practice and experimentation throughout each session to solidify your understanding.
 
+
+
+---
+to start
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
